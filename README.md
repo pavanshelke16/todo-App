@@ -7,7 +7,7 @@ This project is a Todo application built using the Django web framework. It allo
 - **Task add**
 - **Task update**
 - **Task delete**
-- 
+  
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/your-username/todo-django.git`
